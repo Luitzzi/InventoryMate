@@ -5,11 +5,11 @@
 ### Einstieg
 
 Wir wollen verstehen, wie du im Alltag mit deinen Sachen umgehst.
-Das Gespräch dauert etwa 30 Minuten.
+Das Gespräch dauert etwa 15/20 Minuten.
 Wir schreiben mit, und deine Antworten fließen anonym in unsere Studienarbeit ein.
 Nach dem Semester löschen wir die Notizen wieder.
 
-- Ist das okay für dich?
+- Ist das okay für dich
 
 ### Persönliches
 
@@ -21,17 +21,17 @@ Nach dem Semester löschen wir die Notizen wieder.
 ### Überblick
 
 - Von welchen Sachen hast du so viel, dass du schnell den Überblick verlierst? **Auf welche Items muss die App zugeschnitten sein**
-- Hast du Ecken oder Schränke, bei denen du nicht genau weißt, was drin ist?
-- Hast du Gegenstände noch im Elternhaus? Hast du dort einen Überblick darüber?
 - Was ist dein chaotischster oder unaufgeräumtester Ort? **-> Duplikat 2. Frage, wobei auch passend um nochmal nachzuhaken**
+- Hast du Ecken oder Schränke, bei denen du nicht genau weißt, was drin ist? **?**
+- Hast du Gegenstände noch im Elternhaus? Hast du dort einen Überblick darüber?
 
 ### Letzte Vorfälle
 
-- Wann hast du zuletzt etwas länger gesucht? Was war das, und was hat es dich gekostet? (Zeit, Nerven, ...)
+- Wann hast du zuletzt etwas länger gesucht? Wie ist das abgelaufen?
 - Wann hast du zuletzt etwas gekauft und dann gemerkt, dass du es schon hattest?
+- Gibt es konkrete Situationen, in denen du aktiv gemerkt hast, dass dir der Überblick fehlt / du eine bessere Übersicht über deine Gegenstände brauchst? Welche waren das?
 - Wann hast du zuletzt einen Beleg oder eine Garantie gebraucht? Wie lief das ab?
 - Hast du in letzter Zeit etwas verliehen oder ausgeliehen? Wie hast du dir das gemerkt?
-- Wann musstest du zuletzt Lebensmittel wegwerfen? Warum? **-> Out of context. Lebensmittel tracken wird glaub zu groß**
 
 ### Einkauf & Haushalt
 
@@ -42,7 +42,7 @@ Nach dem Semester löschen wir die Notizen wieder.
         - Wie stimmt ihr euch dabei ab?
         - Wie gut funktioniert das?
 
-- Rechnest du mit, wie viel du monatlich für Lebensmittel ausgibst? Wieso?
+- Rechnest du mit, wie viel du monatlich für Lebensmittel/Haushaltsgegenstände (z.B Spühli) ausgibst? Wieso?
 
 ### Vorrat Management Ideen
 
@@ -50,6 +50,7 @@ Nach dem Semester löschen wir die Notizen wieder.
   -> Hast du hier ein System, oder benutzt vllt schon eine App?
 
 ### Feedback zur Idee
+-> Abklären / Wsl. besser für Umfrage
 
 - Idee: Mehrere verschiedene Arten an Gegenständen in einer App verwalten:
 1. Technische Gegenstände mit Garantielaufzeit und Kassenzettel abspeichern
